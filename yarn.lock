@@ -2646,6 +2646,11 @@ base16@^1.0.0:
   resolved "https://registry.yarnpkg.com/base16/-/base16-1.0.0.tgz#e297f60d7ec1014a7a971a39ebc8a98c0b681e70"
   integrity sha512-pNdYkNPiJUnEhnfXV56+sQy8+AaPcG3POZAUnwr4EeqCUZFz4u2PePbo3e5Gj4ziYPCWGUZT9RHisvJKnwFuBQ==
 
+basilcss@^1.1.13:
+  version "1.1.13"
+  resolved "https://registry.yarnpkg.com/basilcss/-/basilcss-1.1.13.tgz#be720e1e0e6564ab642aa06b651092d4d6817785"
+  integrity sha512-p/VnWBzQqngK12LvsdmBpzsmk0zkUwGurQr0QMKq0hh71EiqzXLMufqNrZs3r+OfTTwvOVtbpCCwVvUUVLw8Yw==
+
 batch@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/batch/-/batch-0.6.1.tgz#dc34314f4e679318093fc760272525f94bf25c16"
