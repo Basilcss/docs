@@ -42,8 +42,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           routeBasePath: "/",
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/Basilcss/docs/tree/main/",
         },
         blog: false,
         theme: {
@@ -74,6 +73,11 @@ const config = {
           {
             href: "https://github.com/Basilcss",
             label: "GitHub",
+            position: "right",
+          },
+          {
+            href: "https://demo.basilcss.com/",
+            label: "Demo",
             position: "right",
           },
         ],
