@@ -1,6 +1,6 @@
 # Basil.css Docs
 
-![basilcss logo](/img/basilcss-transparent.png)
+![basilcss logo](./static/img/basilcss-transparent.png)
 
 It's built using [Docusaurus 2](https://docusaurus.io/).
 
