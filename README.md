@@ -1,6 +1,6 @@
-# Basil.css Docs
-
 ![basilcss logo](./static/img/basilcss-transparent.png)
+
+# Basil.css Docs
 
 ### Installation
 
