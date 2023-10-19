@@ -22,25 +22,35 @@ If the maintainer wishes to use Basil.css, the framework provides an easy-to-use
 
 [Visit this page to see the results](https://html5.basilcss.com/)
 
-```
-  <section class="row">
-    <img
-      class="pic col-8 full-width vh-50 big:col-4 big:vh-100"
-      src="https://source.unsplash.com/random"
-      alt="lorem"
-    />
-    <div class="m-b-1 col-8 big:col-4 big:flex-col-justifyCenter-alignCenter">
-      <div class="big:w-80">
-        <h1 class="m-b-1">Lorem, ipsum dolor.</h1>
-        <p class="big:w-80">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora quam
-          dolores suscipit neque commodi repellat, deserunt temporibus ducimus
-          quidem corporis nobis nihil inventore at officia a recusandae quasi ex
-          odit.
-        </p>
-      </div>
+```html
+<section class="row">
+  <img
+    class="pic col-8 full-width vh-50 big:col-4 big:vh-100"
+    src="https://source.unsplash.com/random"
+    alt="lorem"
+  />
+  <div class="m-b-1 col-8 big:col-4 big:flex-col-justifyCenter-alignCenter">
+    <div class="big:w-80">
+      <h1 class="m-b-1">Lorem, ipsum dolor.</h1>
+      <p class="big:w-80">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora quam
+        dolores suscipit neque commodi repellat, deserunt temporibus ducimus
+        quidem corporis nobis nihil inventore at officia a recusandae quasi ex
+        odit.
+      </p>
     </div>
-  </section>
+  </div>
+</section>
 ```
 
-[If you wish to help out with the development of the framework, feel free to make a pull request in the repo](html5.basilcss.com/)
+The above example demonstrates the core features of the framwork:
+
+- The grid system
+- The flexbox system
+- The mobile first responsive layout
+- The width & height system
+- The margin & padding system
+
+You may already have questions - don't worry. We will cover every little detail in the rest of the documentation.
+
+[If you wish to help out with the development of the framework, feel free to make a pull request in the repo](https://github.com/Basilcss/core)
