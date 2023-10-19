@@ -8,8 +8,7 @@ sidebar_position: 3
 
 Basil includes a grid system using CSS grid layout. The .row class creates a grid container with 8 equal columns.
 
-```
-/* example */
+```css
 .row {
   display: grid;
   grid-template-columns: repeat(8, 1fr);
@@ -21,8 +20,7 @@ Basil includes a grid system using CSS grid layout. The .row class creates a gri
 
 - For larger screens (minimum width of 764px), use `.big:row` to define a row. The functionality is the same as the `.row` class.
 
-```
-/* example */
+```css
 @media (min-width: 764px) {
   .big:row {
     display: grid;
@@ -35,10 +33,9 @@ Basil includes a grid system using CSS grid layout. The .row class creates a gri
 ## Columns
 
 - `.col-1` to `.col-8` will each span their number of columns. For example, `.col-1` will span 1 column, and `.col-8` will span 8 columns.
-- At a minimum screen width of 764px, the `.big:col-1` to `.big:col-8` classes behave similarly, allowing you to adjust your layout for larger screens.
+- At a minimum screen width of 764px, the `.big:col-1` to `.big:col-8` classes behave similarly, allowing you to adjust your layout for larger screens. You can add more breakpoints in your root CSS file if your project needs it.
 
-```
-/* example */
+```css
 .col-1 {
   grid-column: span 1;
 }
@@ -46,8 +43,7 @@ Basil includes a grid system using CSS grid layout. The .row class creates a gri
 
 The same classes are also provided for larger screens (viewport width of 764px or greater), prefixed with big:.
 
-```
-/* example */
+```css
 @media (min-width: 764px) {
   .big:col-1 {
     grid-column: span 1;

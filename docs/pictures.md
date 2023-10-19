@@ -6,8 +6,7 @@ sidebar_position: 6
 
 Basil provides a class to make images fit to its container
 
-```
-/* example */
+```css
 .pic {
   background-size: cover;
   background-position: center;
@@ -21,5 +20,4 @@ Basil provides a class to make images fit to its container
     object-fit: cover;
   }
 }
-
 ```

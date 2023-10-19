@@ -8,9 +8,17 @@ sidebar_position: 2
 
 ## Try Basil.css online
 
-- If you prefer a plain HTML setup without any build steps, you can use this JSFiddle as your starting point. (coming soon)
+- If you prefer a plain HTML setup without any build steps, you can use this JSFiddle as your starting point.
 
-- If you are already familiar with Node.js and the concept of build tools, you can also try a complete build setup right within your browser on StackBlitz. (coming soon)
+```
+(coming soon)
+```
+
+- If you are already familiar with Node.js and the concept of build tools, you can also try a complete build setup right within your browser on StackBlitz.
+
+```
+(coming soon)
+```
 
 ---
 

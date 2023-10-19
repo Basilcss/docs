@@ -6,8 +6,7 @@ sidebar_position: 8
 
 You can change the visibility of elements by adding the `hidden` and `visible` classes.
 
-```
-/* example */
+```css
 .hidden {
   display: none;
 }
