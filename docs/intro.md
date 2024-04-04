@@ -15,7 +15,7 @@ By using Basil you speed up your development by only sprinkling the bare minimum
 
 ## The reality of maintaining CSS
 
-If a product is build originally with Basil, the maintainer can jump into the prjoect and change it simply by adding more CSS classes the way he likes best without having to think about learning Basil.css, thus embracing the complexity and chatotic nature of maintaning CSS.
+If a product is build originally with Basil, the maintainer can jump into the project and change it simply by adding more CSS classes the way he likes best without having to think about learning Basil.css, thus embracing the complexity and chatotic nature of maintaning CSS.
 If the maintainer wishes to use Basil.css, the framework provides an easy-to-use grid system and various utility classes that aim to speed up your development process while maintaining a high degree of flexibility.
 
 ### Here is a minimal example:
